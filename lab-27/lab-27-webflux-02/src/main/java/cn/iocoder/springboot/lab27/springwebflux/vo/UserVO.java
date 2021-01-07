@@ -5,7 +5,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 /**
  * 用户 VO
  */
-@XmlRootElement
+//@XmlRootElement
 public class UserVO {
 
     /**
